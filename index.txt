@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+	<link rel="stylesheet" href="styles.css">
+    <title>Adventure Cove Waterpark</title>
+</head>
+<body>
+<ul>
+  <li><a class="active" href="index.html">Introduction</a></li>
+  <li><a href="page2.html">Chapter 1</a></li>
+  <li><a href="page3.html">Chapter 2</a></li>
+  <li><a href="page4.html">Chapter 3</a></li>
+  <li><a href="page5.html">Chapter 4</a></li>
+</ul>
+
+<div style="margin-left:15%;padding:1px 16px;height:1000px;">
+  <h2 style="font-size:300%;text-align:center;font-family:Playfair Display Regular;">Welcome to Adventure Cove Waterpark!</h2>
+  <img src="image1.jpg" alt="Adventure Cove Waterpark">
+  <hr>
+
+  <p style="text-align:center;font-size:150%;font-family:Playfair Display Regular;">Southeast Asia’s first hydro-magnetic coaster isn’t our only claim to fame! From zooming down high-speed water slides to drifting lazily down a winding river; snorkelling with 20,000 marine fish to wading with friendly rays in the shallows. There’s a wave of fun waiting for the thrill-seeker and nature lover in you, here at <b>Adventure Cove Waterpark</b>. So get your goggles ready!</p>
+  
+  <p style="text-align:center;font-size:150%;font-family:Playfair Display Regular;">Open from <b>10.00am to 5.00pm</b> everyday!</p>
+
+  <hr> 
+
+  <h3 style="text-align:center;font-size:200%;font-family:Playfair Display Regular;">Rides</h3>
+  <img src="image2.jpg" alt="Introduction to Rides">
+
+  <p style="text-align:center:font-size:150%;font-family:Playfair Display Regular;">Take high-speed water slides, laze the day away drifting on a lazy river, or snorkel with 20,000 tropical fish over a colourful reef. Just some of the fun you can have at Adventure Cove Waterpark.</p>
+
+ 
+</div>
+
+</body>
+</html>

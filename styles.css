@@ -1,0 +1,58 @@
+body {background-image: url("blue2.jpg");
+  margin: 0;
+  font-family: "Playfair Display Regular";
+  text-align: left
+}
+
+body style {background-colour: #F5FFFA;
+}
+
+img {display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 15%;
+  background-color: #F5FFFA;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+li a.active {
+  background-color: #87CEFA;
+  color: black;
+}
+
+li a:hover:not(.active) {
+  background-color: #696969;
+  color: white;
+}
+
+table {
+  font-family: Playfair Display Regular;
+  border-collapse: collapse;
+  width: 90%;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+td, th {
+  border: 1px solid #000000;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(odd) {
+  background-color: #6495ED;
